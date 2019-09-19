@@ -1,0 +1,152 @@
+@media(max-width: 1199px){
+	.aboutme h2{
+		margin-bottom: 25px;
+	}
+}
+@media(max-width: 991px){
+	.banner-content p{
+	
+	margin: 25px auto 30px;
+}
+.aboutme-section .row{
+	align-items: center;
+}
+.aboutme h2{
+	font-size: 40px;
+	padding-bottom: 22px;
+}
+.aboutme h2 span{
+	font-size: 65px;
+}
+.heading{
+	padding-bottom: 10px;
+}
+.heading span{
+	font-size: 60px;
+}
+.skill-hover ul li{
+	font-size: 13px;
+}
+.question-section button {
+    
+    font-weight: 600;
+    padding: 7px 10px;
+    font-size: 10px;
+}
+
+.question-section h1 {
+    font-size: 30px;
+}
+.question-section .row {
+    padding: 15px 18px;
+}
+
+ul.contact-button li {
+    line-height: 21px;
+    padding-left: 28px;
+    font-size: 13px; 
+}
+}
+@media(max-width: 767px){
+	.navbar-nav{
+		text-align: right;
+	}
+	.navbar-nav li::before{
+	width: 90px;
+	right: 0;
+}
+.navbar-nav li::after{
+	width: 90px;
+	right: 0;
+}
+.banner-content h1{
+	font-size: 40px;
+}
+.banner-content p{
+	margin: 15px auto 20px;
+	font-size: 13px;
+}
+
+.aboutme-section{
+	padding: 50px 0;
+}
+.aboutme-section img{
+	margin-bottom: 5px;
+}
+.aboutme{
+	text-align: center;
+	margin-top: 80px;
+    padding: 20px;
+}
+.aboutme-image{
+	margin-left: 75px;
+}
+.aboutme p{
+	margin-bottom: 10px;
+}
+.heading span{
+	line-height: 1.2;
+	bottom: -25px;
+}
+.get-section span{
+	bottom: 0px;
+}
+.get-section h1{
+	font-size: 40px;
+}
+ul.contact-button li {
+    line-height: 15px;
+    padding-left: 0px;
+    font-size: 11px;
+}
+.question-section h1 {
+    font-size: 20px;
+}
+.question-section h2 {
+    font-size: 20px;
+}
+.question-section button {
+    padding: 2px 8px;
+}
+.works-section ul li a {
+    font-size: 14px;
+    font-weight: 520;
+    border: 1px solid #40afcc00;
+    padding: 6px 12px;
+}
+@media(max-width: 575px){
+	.social{
+		display: none;
+	}
+	.aboutme-image{
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+	.skills-section h3{
+	font-size: 18px;
+   }
+   .question-section {
+	   margin: 100px 35px;
+   } 
+   .question-section button{
+		padding: 5px 18px;
+	}
+	.resume-section-row{
+		padding-left : 50px;
+		padding-right: 50px;
+	}
+	.resume-section {
+    	padding: 20px 0;
+	}
+}
+@media(max-width: 420px){
+	.navbar-brand img{
+		width: 100px;
+	}
+	.nav-item{
+		width: 50px !important;
+	}
+	.nav-item a{
+		font-size: 14px !important;
+	}
+}
